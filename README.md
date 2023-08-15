@@ -2,7 +2,7 @@
 
 In this repository I will be putting the <b>projects</b> that I have did on <a href="https://www.frontendmentor.io/home">frontendmentor.io</a>
 
-### Code I used/ will be using
+### Languages I used/ will be using
 
 - HTML
 - CSS 
