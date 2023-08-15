@@ -39,4 +39,5 @@ const proudOfThisFunc = () => {
 ## Author
 
 -Website - [Safni Nazar](https://linktr.ee/shafni50)
+
 -Frontend Mentor - [@shafni50](https://www.frontendmentor.io/profile/shafni50)
