@@ -1,4 +1,5 @@
-# frontendmentor-projects <img src="https://asset.brandfetch.io/id-7PJzcYu/idDksQWGNy.jpeg" alt="frontend-mentor icon" 
+# frontendmentor-projects 
+<img src="https://asset.brandfetch.io/id-7PJzcYu/idDksQWGNy.jpeg" alt="frontend-mentor icon" 
 style="
 border-radius: 50%;
 height: 80px;
