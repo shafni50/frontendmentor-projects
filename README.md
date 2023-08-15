@@ -1,24 +1,15 @@
 # frontendmentor-projects
 
-In this repo
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+In this repository I will be putting the <b>projects</b> that I have did on <a href="https://www.frontendmentor.io/home">frontendmentor.io</a>
 
 ## Overview
+### Code I used/ will be using
 
-### Screenshot
-
-![](./screenshot.png)
-
-
-- Live Site URL: [url](https://qrcodecomponent-sha.netlify.app/)
-
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- HTML
+- CSS 
+- JS
+- TS
+- Angular
 
 ### What I learned
 
@@ -27,21 +18,10 @@ Use this section to recap over some of your major learnings while working throug
 To see how you can add code snippets, see below:
 
 ```html
-<h1>I'm proud of myself!</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('😌❤')
-}
+<h1>Enjoy!</h1>
 ```
 
 ## Author
 
-- Website - [Safni Nazar](https://qrcodecomponent-sha.netlify.app/)
+- Website - [Safni Nazar](https://linktr.ee/shafni50)
 - Frontend Mentor - [@shafni50](https://www.frontendmentor.io/profile/shafni50)
-- Twitter - [@shafni50](https://www.twitter.com/shafni50)
