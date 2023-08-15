@@ -1,4 +1,4 @@
-# frontendmentor-projects <img src="https://asset.brandfetch.io/id-7PJzcYu/idDksQWGNy.jpeg" alt="frontend-mentor icon" style="border-radius: 50%; height: 40px;">
+# frontendmentor-projects <img src="https://asset.brandfetch.io/id-7PJzcYu/idDksQWGNy.jpeg" alt="frontend-mentor icon" style="border-radius: 50%; height: 40px; float: right;">
 
 In this repository I will be putting the <b>projects</b> that I have did on <a href="https://www.frontendmentor.io/home">frontendmentor.io</a>
 
