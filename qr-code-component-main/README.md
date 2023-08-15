@@ -2,16 +2,12 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
 ### Screenshot
 
 ![](./screenshot.png)
 
 
-- Live Site URL: [Add live site URL here](https://qrcodecomponent-sha.netlify.app/)
+- Live Site URL: [qrcodecomponent-sha.netlify.app](https://qrcodecomponent-sha.netlify.app/)
 
 
 ### Built with
@@ -42,6 +38,5 @@ const proudOfThisFunc = () => {
 
 ## Author
 
-- Website - [Add your name here](https://qrcodecomponent-sha.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/shafni50)
-- Twitter - [@yourusername](https://www.twitter.com/shafni50)
+-Website - [Safni Nazar](https://linktr.ee/shafni50)
+- Frontend Mentor - [@shafni50](https://www.frontendmentor.io/profile/shafni50)
