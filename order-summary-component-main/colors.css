@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Red+Hat+Display:wght@500;900&display=swap');
 
 @media screen and (max-width: 375px) {
-    .container {
+    .body {
         background-image: url(images/pattern-background-mobile.svg);
         background-repeat: no-repeat;
         background-size: contain;
