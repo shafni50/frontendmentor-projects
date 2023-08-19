@@ -4,12 +4,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Overview
 
-### Completed challenge
-
-Users should be able to:
-
-- See hover states for interactive elements
-
 ### Screenshot
 
 ![](./images/screenshot.png)
@@ -29,7 +23,7 @@ Users should be able to:
 
 
 ```html
-<h1>Some HTML code I'm proud of myself😌❤</h1>
+<h1>I'm proud of myself😌❤</h1>
 ```
 
 ## Author
