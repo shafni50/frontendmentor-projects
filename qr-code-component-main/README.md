@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./screenshot.png)
 
 
-- Live Site URL: [qrcodecomponent-sha.netlify.app](https://qrcodecomponent-sha.netlify.app/)
+- Live Site URL: [url](https://shafni50.github.io/qrcardcomponent/)
 
 
 ### Built with
@@ -16,18 +16,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
 ```html
 <h1>I'm proud of myself!</h1>
 ```
 ```css
 .proud-of-this-css {
-  color: papayawhip;
+  color: none;
 }
 ```
 ```js
@@ -39,5 +33,4 @@ const proudOfThisFunc = () => {
 ## Author
 
 -Website - [Safni Nazar](https://linktr.ee/shafni50)
-
 -Frontend Mentor - [@shafni50](https://www.frontendmentor.io/profile/shafni50)
