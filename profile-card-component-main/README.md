@@ -7,7 +7,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ![](./images/screenshot.png)
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [url](https://shafni50.github.io/profilecardcomponent/)
 
 ### Built with
 
