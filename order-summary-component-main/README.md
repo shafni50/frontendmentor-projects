@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [ordercard-sha.netlify.app](https://ordercard-sha.netlify.app/)
+- Live Site URL: [url](https://shafni50.github.io/ordersummarycard/)
 
 ## My process
 
