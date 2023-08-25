@@ -344,6 +344,12 @@ section{
     margin-bottom: 2rem;
 }
 
+@media (max-width: 475px) {
+    .footer-above h3 {
+        font-size: 1.5rem;
+    }
+}
+
 .footer-above button {
     border: none;
     background-color: var(--pink);
