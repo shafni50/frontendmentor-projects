@@ -1,18 +1,27 @@
-# frontendmentor-projects <img src="https://asset.brandfetch.io/id-7PJzcYu/idDksQWGNy.jpeg" alt="frontend-mentor icon" style="border-radius: 50%; height: 25px; float: right;">
+# Frontend Mentor - Huddle landing page with curved sections
 
-In this repository I will be putting the <b>projects</b> that I have did on <a href="https://www.frontendmentor.io/home">frontendmentor.io</a>
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-### Languages I used/ will be using
+## Overview
 
-- HTML
+### Screenshot
+
+![](./design/desktop-design.jpg)
+
+### Links
+
+- Live Site URL: [url]()
+
+
+### Built with
+
+- HTML5 markup
 - CSS 
-- JS
-- TS
-- Angular
-
-```html
-<h1>Enjoy!</h1>
-```
+- Flexbox
+- Grid
+- Block
+- Media queries
+- Desktop-first workflow
 
 ## Author
 
