@@ -10,7 +10,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: [url]()
+- Live Site URL: [url](https://shafni50.github.io/productcardcomponent/)
 
 
 ### Built with
