@@ -17,9 +17,7 @@ Users should be able to:
 ![](./images/desktop-screenshot.png)
 
 ### Links
-
-- Solution URL: [url](https://your-solution-url.com)
-- Live Site URL: [url](https://your-live-site-url.com)
+- Live Site URL: [url](https://shafni50.github.io/simple-dropdown-menu-page/)
 
 ## My process
 
