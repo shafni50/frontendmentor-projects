@@ -32,4 +32,4 @@ Users should be able to:
 ## Author
 
 - Website - [Safni Nazar](https://linktr.ee/shafni50)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/shafni50)
+- Frontend Mentor - [@shafni50](https://www.frontendmentor.io/profile/shafni50)
